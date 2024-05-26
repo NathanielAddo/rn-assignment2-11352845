@@ -20,3 +20,6 @@ To increase the font size of the text, I added a `fontSize` property with a valu
 ### 4. Make the Name "YourName" Bold
 
 To make the name "YourName" bold, I applied a `fontWeight` property with a value of `bold` to the `boldText` style in the `StyleSheet`. This style is then applied to the nested `Text` component.
+
+# IMAGE
+![App Screenshot](Screenshot_26-5-2024_232434_localhost.jpeg)
